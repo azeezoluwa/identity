@@ -1,5 +1,7 @@
 You can either run this test via pom.xml or at class level
 
+Identity e2e test
+
 Test Description:
 Write a test automation suite which does following.
 1. Reads given input file: car_input.txt
